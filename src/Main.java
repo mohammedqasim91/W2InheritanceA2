@@ -19,7 +19,7 @@ public class Main {
         invoice.setPrice(5.99);
 
         // Display the updated values
-        System.out.println("\nUpdated Part Number: " + invoice.getPartNum());
+        System.out.println("\n Updated Part Number: " + invoice.getPartNum());
         System.out.println("Updated Part Description: " + invoice.getPartDesc());
         System.out.println("Updated Quantity: " + invoice.getQuantity());
         System.out.println("Updated Price: " + invoice.getPrice());
